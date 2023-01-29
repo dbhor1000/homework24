@@ -72,7 +72,7 @@ public class Main {
         ArrayList<Integer> listOfIntegers = new ArrayList<Integer>();
         listOfIntegers.add(2);
         listOfIntegers.add(3);
-        listOfIntegers.add(5);
+        listOfIntegers.add(8);
         listOfIntegers.add(7);
         listOfIntegers.add(8);
         listOfIntegers.add(22);
